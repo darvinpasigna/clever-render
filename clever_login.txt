@@ -1,0 +1,17 @@
+clever 
+host: bmkcuxu3glbhyhusdaku-mysql.services.clever-cloud.com
+Database name: bmkcuxu3glbhyhusdaku
+user: uagueuphxewwob2o
+password:WTsYydUAeLvpVCXoIRl1
+
+
+environment variable
+MYSQL_ADDON_HOST=bmkcuxu3glbhyhusdaku-mysql.services.clever-cloud.com
+MYSQL_ADDON_DB=bmkcuxu3glbhyhusdaku
+MYSQL_ADDON_USER=uagueuphxewwob2o
+MYSQL_ADDON_PORT=3306
+MYSQL_ADDON_PASSWORD=WTsYydUAeLvpVCXoIRl1
+MYSQL_ADDON_URI=mysql://uagueuphxewwob2o:WTsYydUAeLvpVCXoIRl1@bmkcuxu3glbhyhusdaku-mysql.services.clever-cloud.com:3306/bmkcuxu3glbhyhusdaku
+Host
+bmkcuxu3glbhyhusdaku-mysql.services.clever-cloud.com
+Database Name
